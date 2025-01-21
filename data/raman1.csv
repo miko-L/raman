@@ -1,0 +1,21 @@
+,,,,,,
+N samples,Name,Type,Source,Paper,Year,add. data
+>80k spectra across 30+ isolates.,Bacteria data,Raman spectra acquired from different bacterial and yeast isolates.,https://ramanspy.readthedocs.io/en/latest/datasets.html#rruff-data,"Ho, CS. et al. (2019)",2019,
+,Stem cells,A single volumetric scan of hiPSC cells.,https://ramanspy.readthedocs.io/en/latest/datasets.html#rruff-data,Kallepitis et al. (2017).,2017,https://doi.org/10.5281/zenodo.256329.
+170k pairs of low- and high-SNR data. ,cancer cell line,MDA-MB-231 cells data,https://ramanspy.readthedocs.io/en/latest/datasets.html#rruff-data,"Horgan, C.C. et al. (2021).",2021,
+117,Viral data,patients with COVID-19 and healthy controls.,https://ramanspy.readthedocs.io/en/latest/datasets.html#rruff-data,Yin G. et al. (2021).,2021,
+3694 spectra,Adenine,Adenine concentrations,https://ramanspy.readthedocs.io/en/latest/datasets.html#rruff-data,"Fornasaro, Stefano, et al. (2020).",2020,"Eventually, after testing a short list of several substances, the choice fell on adenine as the standard analyte, while the choice of the matrix fell on pH 7.4 phosphate buffer (0.01 M)"
+"12,663 spectra were taken for each class",plant breeding,mutant wheat lines,https://ramanspy.readthedocs.io/en/latest/datasets.html#rruff-data,Sen A. et al. (2023).,,Amino acid amounts in somatic embryos obtained from mature wheat 
+2500?,minerals,,https://ramanspy.readthedocs.io/en/latest/datasets.html#rruff-data,https://rruff.info,,
+68,Inorganics,2D,http://www.irug.org/resources/spectral-databases-for-raman,https://www.irdg.org/ijvs/library-of-spectra,,
+1133 entries,mineral and chem ??,,http://www.irug.org/resources/spectral-databases-for-raman,https://solsa.crystallography.net/rod/index.php,2019,
+?,major mineral groups,,,https://www.geologie-lyon.fr/Raman/,,
+200,"Pigments, minerals",,https://www.gemmoraman.com/articles/raman-databases/,https://rdrs.uaic.ro,,
+~30?,"Pigments, art?",,,https://chsopensource.org/pigments-checker/,,
+450,Active substances tablets ,NIR/NIT and Raman spectra of active substance in tablets,http://www.irug.org/resources/spectral-databases-for-raman,https://ucphchemometrics.com/datasets/,,
+105,Pork fat,The samples for this study were 16 pork carcasses,http://www.irug.org/resources/spectral-databases-for-raman,https://ucphchemometrics.com/datasets/,,
+~60?,Pigments,natural and synth ,http://www.irug.org/resources/spectral-databases-for-raman,http://www.chem.ucl.ac.uk/resources/raman/,1998,
+300,Pigments,synthetic organic pigments,http://www.irug.org/resources/spectral-databases-for-raman,https://soprano.kikirpa.be/index.php?lib=sop,,
+"26,000 high-quality spectra",Wiley Database Package,"organics and inorganics, monomers and polymers, to application-focused data + metadata",https://sciencesolutions.wiley.com/solutions/technique/raman/,https://sciencesolutions.wiley.com/solutions/technique/raman/knowitall-raman-collection/,,
+"6,450",Sigma Aldrich Database Package,"Environmental, Food & Cosmetics, Forensics & Toxicology, Metabolomics, Quality Assurance",https://sciencesolutions.wiley.com/solutions/technique/raman/,https://sciencesolutions.wiley.com/solutions/technique/raman/sigma-aldrich-library-of-raman-spectra/,,
+24000,All inclusive package ,not minerals ,,https://www.stjapan.de/spectra-databases/raman-spectra-databases/,,
