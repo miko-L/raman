@@ -1,1 +1,4 @@
 data/bacteria/
+
+code/*.pth
+code/*.h5
