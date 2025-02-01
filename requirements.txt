@@ -1,0 +1,10 @@
+ipykernel
+matplotlib
+numpy
+pandas
+ramanspy
+scikit-learn
+tensorflow
+torch
+torchvision
+torchaudio
