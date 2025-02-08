@@ -2,3 +2,4 @@ data/bacteria/
 
 code/*.pth
 code/*.h5
+*/Data.mat
